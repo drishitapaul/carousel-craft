@@ -2,7 +2,7 @@
 
 ## 🌐 Live Project
 
-🔗 [View Published Project (Claude)](PASTE_YOUR_LINK_HERE)
+🔗 [View Published Project (Claude)]([https://carousel-craft-sandy.vercel.app])
 
 ---
 
